@@ -12,6 +12,8 @@
     <item>/package.json</item>
     <item>/.travis.yml</item>
     <item>/Test_File1.xml</item>
+    <item>/zrsusr200_test1.prog.abap</item>
+    <item>/zrsusr200_test1.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
